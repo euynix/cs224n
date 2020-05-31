@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+Corpora/
+.idea/
+Lectures/
+datasets/
+.DS_Store
+.gitattributes
+
+*.py[cod]
+*.npy
+*.pickle
