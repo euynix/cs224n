@@ -1,8 +1,8 @@
 __pycache__/
 .ipynb_checkpoints/
-Corpora/
+corpora/
 .idea/
-Lectures/
+lectures/
 datasets/
 .DS_Store
 .gitattributes
