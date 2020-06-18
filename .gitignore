@@ -3,9 +3,8 @@ __pycache__/
 corpora/
 .idea/
 lectures/
-datasets/
 .DS_Store
-.gitattributes
+
 
 *.py[cod]
 *.npy
